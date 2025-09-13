@@ -9,5 +9,5 @@ Easily add, remove, and view your tasks to stay organized.
 ## Author
 ~Atharva Pali
 
-## How the Code Looks
+## Sample Output
 ![Screenshot of To-Do List](to-do-list_ss.png)
